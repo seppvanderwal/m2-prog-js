@@ -5,7 +5,7 @@ class App
         console.log("Hello world!");
         let appnaam="appgame";
         let versienummer=2.3;
-        let versiedatum=22;
+        let versiedatum= new Date("2022-11-22");
         let autheur="sepp";
         let copyright="henks games";
         let distributeur="epic game";
